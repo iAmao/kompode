@@ -1,0 +1,28 @@
+{
+  "name": "kompode",
+  "version": "1.0.0",
+  "description": "A CLI-tool for creating Express REST API applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "build": "node scripts/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iAmao/kompode.git"
+  },
+  "keywords": [
+    "kompode",
+    "cli",
+    "node",
+    "express",
+    "rest",
+    "api"
+  ],
+  "author": "Inumidun Amao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iAmao/kompode/issues"
+  },
+  "homepage": "https://github.com/iAmao/kompode#readme"
+}
